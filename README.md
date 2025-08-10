@@ -1,6 +1,6 @@
 # Forex ATS Website
 
-This repository hosts the source code and content for the **Forex ATS** website (www.forexats.com). It is designed to accompany the Forex ATS automated trading system by providing documentation, usage guides, and other resources in a user‑friendly web format.
+This repository hosts the source code and content for the **Forex ATS** website (www.forexats.org). It is designed to accompany the Forex ATS automated trading system by providing documentation, usage guides, and other resources in a user‑friendly web format.
 
 ## Contributing
 
